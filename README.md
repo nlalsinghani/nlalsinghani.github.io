@@ -51,7 +51,7 @@ portfolio-website/
 If you have any questions or feedback, please feel free to reach out:
 
 - Email: nirav.lalsinghani@gmail.com
-- GitHub: nlalsinghani
+- GitHub: [Nirav Lalsinghani Github](https://github.com/nlalsinghani)
 - LinkedIn: [Nirav Lalsinghani LinkedIn](https://www.linkedin.com/in/nirav-lalsinghani/)
 
 Thank you for visiting my portfolio website!
