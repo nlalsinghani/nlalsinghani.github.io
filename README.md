@@ -52,6 +52,6 @@ If you have any questions or feedback, please feel free to reach out:
 
 - Email: nirav.lalsinghani@gmail.com
 - GitHub: nlalsinghani
-- LinkedIn: linkedin.com/in/nirav-lalsinghani
+- LinkedIn: [Nirav Lalsinghani LinkedIn](https://www.linkedin.com/in/nirav-lalsinghani/)
 
 Thank you for visiting my portfolio website!
